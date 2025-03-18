@@ -1,4 +1,4 @@
-# Git-hub-user-activity-
+# Git-hub-user-activity
 A simple script that checks the recent events of a git-hub user with the git-hub api was part of the roadmap.sh projects
 
 https://roadmap.sh/projects/github-user-activity
